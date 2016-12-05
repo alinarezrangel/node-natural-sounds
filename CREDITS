@@ -75,3 +75,8 @@ suspend-error
         Created by Richard Hughes
         Copyright: Red Hat, Inc.
         License: CC-BY-SA
+
+window-inactive-click
+        Created by Alejandro Linarez Rangel
+        URL: https://github.com/alinarezrangel/node-natural-sounds/
+        License: CC-BY-SA
